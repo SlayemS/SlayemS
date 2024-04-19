@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some personal projects<br>🤝 Studying Computer Science<br>🌱 Diving into MERN stack<br>👯 Looking to collaborate on projects that solve real-world problems<br>⚡ Fun fact: I appeared on Times Square billboard
+🔭 I’m currently working on some personal projects<br>🤝 Studying Computer Science<br>🌱 I work too<br>👯 Looking to collaborate on projects that solve real-world problems<br>⚡ Fun fact: I appeared on Times Square billboard
 
 
 ## 🌐 Socials:
