@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-Feel free to reach out to me on LinkedIn!
+Feel free to talk to me on LinkedIn!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayem-s)
 
