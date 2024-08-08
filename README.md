@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on some personal projects<br>🤝 Studying Computer Science<br>🌱 I work too<br>👯 Looking to collaborate on projects that solve real-world problems<br>⚡ Fun fact: I appeared on Times Square billboard
+🔭 Currently working on some personal projects<br>👯 Looking to collaborate on projects that solve real-world problems<br>
 
 
 ## 🌐 Socials:
-Feel free to talk to me on LinkedIn!
+Feel free to connect with me on LinkedIn!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayem-s)
 
