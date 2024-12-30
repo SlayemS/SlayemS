@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 Currently working on some personal projects<br>👯 Looking to collaborate on projects that solve real-world problems<br>
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayem-s)
 
 # 💻 Tech Stack:
